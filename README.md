@@ -1,13 +1,13 @@
 # Olá! 👋
 
 Meu nome é Lucas Onofre,
-sou um estudante de Sistemas de Informação apaixonado por tecnologia!
+Sou um estudante de Sistemas de Informação apaixonado por tecnologia!
 
 ▪ Sou brasileiro, 18 anos; 🟩
 
 ▪ Técnico em Desenvolvimento de Sistemas; 💻
 
-▪ Front-End - JavaScript / CSS / Bootstrap; 🖊
+▪ Front-End - JavaScript / CSS / Estudando React; 🖊
 
 ---
  ##### Compartilharei meus estudos e projetos pessoais neste perfil 😄
