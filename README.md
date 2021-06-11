@@ -7,7 +7,7 @@ Sou um estudante de Sistemas de Informação apaixonado por tecnologia!
 
 ▪ Técnico em Desenvolvimento de Sistemas; 💻
 
-▪ Front-End - JavaScript / CSS / Estudando React; 🖊
+▪ Front-End - JavaScript / CSS / Estudando React e NodeJS; 🖊
 
 ---
  ##### Compartilharei meus estudos e projetos pessoais neste perfil 😄
