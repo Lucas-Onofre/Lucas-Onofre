@@ -3,7 +3,7 @@
 Meu nome é Lucas Onofre,
 Sou um estudante de Sistemas de Informação apaixonado por tecnologia!
 
-▪ Brasileiro, 18 anos;
+▪ Brasileiro, 19 anos;
 
 ▪ Técnico em Desenvolvimento de Sistemas; 💻
 
