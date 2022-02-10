@@ -1,11 +1,7 @@
 # Olá! 👋
 
 Meu nome é Lucas Onofre,
-Atualmente sou Desenvolvedor Júnior e estudante de Sistemas de Informação.
-
-▪ No momento estou focado no ecossistema Angular e .NET, porém tenho muito interesse em React também!
-
-▪ Brasileiro, 19 anos;
+Atualmente sou Desenvolvedor Júnior e estudante de Sistemas de Informação
 
 ---
 
