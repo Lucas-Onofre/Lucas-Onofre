@@ -1,10 +1,3 @@
-# Olá! 👋
-
-Meu nome é Lucas Onofre,
-Atualmente sou Desenvolvedor Júnior e estudante de Sistemas de Informação
-
----
-
 <div>
   <a href="https://github.com/Lucas-Onofre">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucas-Onofre&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
